@@ -1,0 +1,25 @@
+.box {
+  width: 33%;
+  height: 100px ;
+  float: left;
+  font-size: 70px;
+  font-family: Helvetica;
+  box-sizing: border-box;
+  border: 1px solid black;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+
+}
+
+section {
+  width: 300px;
+}
+
+.X {
+  color: red;
+}
+
+.O {
+  color: blue;
+}
