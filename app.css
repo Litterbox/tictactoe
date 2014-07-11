@@ -10,7 +10,7 @@ body {
   font-size: 90px;
   font-weight: bolder;
   box-sizing: border-box;
-  border: 2px dashed #e6e6e6;
+  border: 2px dashed #e8e8e8;
   text-align: center;
   display: table-cell;
   vertical-align: middle;
@@ -29,3 +29,8 @@ section {
 .O {
   color: blue;
 }
+
+.top { border-top: 0px;}
+.bottom { border-bottom: 0px;}
+.right { border-right: 0px; }
+.left { border-left: 0px;}
